@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <string name="overall_score">Overall Score</string>
+    <string name="Title">TITLE</string>
+    <string name="Description">Description</string>
+    <string name="title_generated">Master Android Development with Step-by-Step Tutorials</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="data">Get ready to become an Android development pro with our comprehensive tutorial series. From beginner to advanced topics, well guide you through every step of the process, ensuring you gain a deep understanding of Android app development. Join us today and unleash your creativity!</string>
+    <string name="average">AVERAGE</string>
+    <string name="search_volume">Search Volume</string>
+    <string name="competiton">Competiton</string>
+    <string name="high">High</string>
+    <string name="_53">53</string>
+    <string name="_100">/100</string>
+</resources>
